@@ -1,0 +1,30 @@
+h1 {
+  text-align: center;
+}
+
+body {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 17px;
+}
+
+/* /* card style */
+
+.card {
+
+  height: 500px;
+  width: 350px;
+  padding: 15px;
+  background-color: rgba(2, 107, 37, 0.767);
+  border-radius: 5px;
+  margin:auto;
+  text-align: center;
+  
+
+  /* background-size: cover; */
+  /* background-image: url(https://fastly.picsum.photos/id/237/200/300.jpg?hmac=TmmQSbShHz9CdQm0NkEjx1Dyh_Y984R9LpNrpvH2D_U); */
+
+}
+/* card */
+.card img { width: 200px;
+height: 100px;
+}
